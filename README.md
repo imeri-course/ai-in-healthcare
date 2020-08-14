@@ -1,15 +1,15 @@
 # Description
-This is material to support online workshop for AI in healthcare. This workshop would be useful for both healthcare professionals and AI engineers. 
+This repository contains material to support online workshop titled "AI in Healthcare" by IMERI. The content of this workshop is useful for both healthcare professionals and AI engineers. 
 
-Healthcare professionals will be able the basic understanding about how AI algorithm works and given a graps knowledge the algorithm can be implemented on use cases in healthcare systems and medicine.
+Healthcare professionals will be able to learn basic understanding about how AI algorithm works and be given a grasp of knowledge about the algorithm that can be implemented on many cases involving healthcare systems and medicine.
 
-In this workshop will be covered from introduction about what is AI and the related things in health, seeing real life dataset examples and how to process those datasets and implement algorithm by feeding the data in to the methods.
+This workshop will covers from introduction about what is AI and the related things in health, seeing real life dataset examples and how to process those datasets, and implement algorithm by feeding the data into the methods.
 
 # Who this workshop is for:
-- healthcare professionals
+- Healthcare professionals
 - AI engineers
 - Anyone else planning to study / implement AI in healthcare
 
 # Requirements
-- Although there are no pre-requisites, it would be helpful if you know a bit about the healthcare world & basic AI concepts.
-- no need to prepare code, all codes will be provided.
+- Although there are no prerequisites, it would be helpful if you know a bit about the healthcare world & basic AI concepts.
+- No need to prepare code, all codes will be provided.
